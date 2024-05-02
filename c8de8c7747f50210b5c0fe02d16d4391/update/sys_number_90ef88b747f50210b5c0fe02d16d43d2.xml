@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_738256_book_inv_book">x_738256_book_inv_book</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>BOOK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-05-02 21:04:09</sys_created_on>
+        <sys_id>90ef88b747f50210b5c0fe02d16d43d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BOOK</sys_name>
+        <sys_package display_value="Book Inventory" source="x_738256_book_inv">c8de8c7747f50210b5c0fe02d16d4391</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book Inventory">c8de8c7747f50210b5c0fe02d16d4391</sys_scope>
+        <sys_update_name>sys_number_90ef88b747f50210b5c0fe02d16d43d2</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-05-02 21:04:09</sys_updated_on>
+    </sys_number>
+</record_update>

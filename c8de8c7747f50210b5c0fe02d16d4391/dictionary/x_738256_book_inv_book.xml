@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0eee40b747f50210b5c0fe02d16d4346" label="Book" max_length="40" name="x_738256_book_inv_book" type="collection">
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice/>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Title" max_length="100" name="title" type="string"/>
+        <element label="Year" max_length="40" name="year" type="string"/>
+    </element>
+</database>
