@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="gender" table="x_738256_book_inv_book">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="category" table="x_738256_book_inv_book">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -13,7 +13,7 @@
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Gender</column_label>
+        <column_label>Category</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,7 +26,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>gender</element>
+        <element>category</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>joatan</sys_created_by>
-        <sys_created_on>2024-05-02 21:01:21</sys_created_on>
-        <sys_name>Gender</sys_name>
+        <sys_created_on>2024-05-03 17:23:49</sys_created_on>
+        <sys_name>Category</sys_name>
         <sys_package display_value="Book Inventory" source="x_738256_book_inv">c8de8c7747f50210b5c0fe02d16d4391</sys_package>
         <sys_policy/>
         <sys_scope display_value="Book Inventory">c8de8c7747f50210b5c0fe02d16d4391</sys_scope>
-        <sys_update_name>sys_dictionary_x_738256_book_inv_book_gender</sys_update_name>
+        <sys_update_name>sys_dictionary_x_738256_book_inv_book_category</sys_update_name>
         <sys_updated_by>joatan</sys_updated_by>
-        <sys_updated_on>2024-05-02 21:01:21</sys_updated_on>
+        <sys_updated_on>2024-05-03 17:23:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
